@@ -1,0 +1,51 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  color: white;
+}
+.all {
+  background-color: hsl(216, 50%, 16%);
+  width: 18%;
+  box-shadow: black;
+  margin: auto;
+  padding: 30px;
+  border-radius: 10px;
+  height: 10%;
+}
+p {
+  color: hsl(215, 51%, 70%);
+}
+.mo {
+  color: hsl(215, 51%, 70%);
+}
+.not {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.nn {
+  width: 40px;
+}
+.cc {
+  display: flex;
+  align-items: center;
+  gap: calc(15px);
+}
+
+.d {
+  height: 10px;
+}
+.ddd {
+  color: hsl(215, 32%, 27%);
+}
+.blue {
+  color: hsl(178, 100%, 50%);
+}
+.equ {
+  display: flex;
+  gap: calc(10px);
+}
+.eth {
+  margin-left: auto;
+}
