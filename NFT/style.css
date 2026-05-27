@@ -49,3 +49,8 @@ p {
 .eth {
   margin-left: auto;
 }
+@media screen and (max-width: 770px) {
+  .all {
+    width: 75%;
+  }
+}
